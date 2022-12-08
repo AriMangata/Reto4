@@ -1,16 +1,5 @@
-# reto4
+# Reto # 4
 
-A new Flutter project.
+El siguiente es un demo de la interfaz:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AriMangata/reto3/blob/main/chat/Aplicaci%C3%B3n-Chat-Google-Chrome-2022-12-01-22-00-30_Trim.gif" width="300" />
