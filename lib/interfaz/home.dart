@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter Demo',
+      title: 'Geo - Localizer',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'GeoRogerCORP'),
+      home: const MyHomePage(title: 'Geolocalizador'),
       debugShowCheckedModeBanner: false,
     );
   }
